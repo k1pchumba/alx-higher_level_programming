@@ -1,1 +1,1 @@
-this is the readme fil3 for 0x00-python-hello_world
+this is the readme file for 0x00-python-hello_world
